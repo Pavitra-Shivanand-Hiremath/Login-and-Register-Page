@@ -1,0 +1,69 @@
+body{
+    background-image: url(work.jpg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+#main-wrapper{
+    width: 300px;
+    margin: 5 auto;
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    border:2px solid #76bdff;
+}
+
+#main-wrapper1{
+    width: 900px;
+    height: 400px;
+    margin: 5 auto;
+    background: #c4d7e9;
+    padding:10px;
+}
+
+h2{
+    text-align: center;
+}
+
+.form{
+    width: 450px;
+    margin: 0 auto;
+}
+
+.inputData input{
+    margin-left: 7em;  
+}
+
+#button_login{
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(3, 179, 27);
+    font-weight:bold;
+    margin-bottom: 10px;
+}
+
+#button_register{
+    margin-top: 10px;
+    margin-bottom: auto ;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(6, 135, 158);
+    font-weight:bold;
+}
+
+#button_cancel{
+    margin-top: 10px;
+    width: 50%;
+    background-color: #bf0bcf;
+}
+
+.logout{
+    width: 50%;
+    right:200px;
+    top:50px;
+    background-color: #0973b9;
+}
+
+
